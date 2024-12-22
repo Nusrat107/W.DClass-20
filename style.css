@@ -45,10 +45,114 @@
     width: 250px !important;
 }
 
-/* responsive */
 
-@media screen and(max-width:1198) {
+/* Responsive */
+/* carosel */
+
+@media screen and (max-width: 989px) {
+    .carosel {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .carosel {
+        height: 300px;
+    } 
+}
+
+@media screen and (max-width: 420px) {
+    .carosel {
+        height: 200px;
+    } 
+}
+/* card responsive */
+@media screen and (max-width: 1199px) {
+    .custom-m {
+        width: 220px !important;
+    } 
+}
+
+@media screen and (max-width: 768px) {
+    .custom-m {
+        width: 170px !important;
+    } 
+}
+
+@media screen and (max-width: 537px) {
+    .custom-m {
+        width: 160px !important;
+    } 
+}
+
+@media screen and (max-width: 509px) {
+    .custom-m {
+        width: 230px !important;
+    } 
+}
+
+@media screen and (max-width: 480px) {
+    .custom-m {
+        width: 220px !important;
+    } 
+}
+
+@media screen and (max-width: 459px) {
+    .custom-m {
+        width: 210px !important;
+    } 
+}
+
+@media screen and (max-width: 439px) {
     .custom-m {
         width: 200px !important;
     } 
 }
+
+@media screen and (max-width: 419px) {
+    .custom-m {
+        width: 190px !important;
+    } 
+}
+
+@media screen and (max-width: 400px) {
+    .custom-m {
+        width: 180px !important;
+    } 
+}
+
+@media screen and (max-width: 380px) {
+    .custom-m {
+        width: 170px !important;
+    } 
+}
+
+@media screen and (max-width: 360px) {
+    .custom-m {
+        width: 160px !important;
+    } 
+}
+
+@media screen and (max-width: 340px) {
+    .custom-m {
+        width: 150px !important;
+    } 
+}
+
+@media screen and (max-width: 320px) {
+    .custom-m {
+        width: 280px !important;
+    } 
+}
+
+/* Letter Responsive */
+
+@media screen and (max-width: 1198px) {
+    .castom-font {
+        font-size: 15px !important;
+    } 
+}
+
+
+
+
