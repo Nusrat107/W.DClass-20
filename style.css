@@ -73,19 +73,25 @@
     } 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
     .custom-m {
-        width: 170px !important;
+        width: 215px !important;
     } 
 }
 
-@media screen and (max-width: 537px) {
+@media screen and (max-width: 767px) {
     .custom-m {
-        width: 160px !important;
+        width: 250px !important;
     } 
 }
 
-@media screen and (max-width: 509px) {
+@media screen and (max-width: 515px) {
+    .custom-m {
+        width: 240px !important;
+    } 
+}
+
+@media screen and (max-width: 500px) {
     .custom-m {
         width: 230px !important;
     } 
@@ -97,19 +103,19 @@
     } 
 }
 
-@media screen and (max-width: 459px) {
+@media screen and (max-width: 460px) {
     .custom-m {
         width: 210px !important;
     } 
 }
 
-@media screen and (max-width: 439px) {
+@media screen and (max-width: 440px) {
     .custom-m {
         width: 200px !important;
     } 
 }
 
-@media screen and (max-width: 419px) {
+@media screen and (max-width: 420px) {
     .custom-m {
         width: 190px !important;
     } 
@@ -135,21 +141,72 @@
 
 @media screen and (max-width: 340px) {
     .custom-m {
-        width: 150px !important;
+        width: 290px !important;
+        margin-left: 20px !important;
     } 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 314px) {
     .custom-m {
         width: 280px !important;
+        margin-left: 10px !important;
     } 
 }
+
+
+
+
+
 
 /* Letter Responsive */
 
 @media screen and (max-width: 1198px) {
     .castom-font {
         font-size: 15px !important;
+    } 
+}
+
+@media screen and (max-width: 340px) {
+    .castom-font {
+        font-size: 25px !important;
+    } 
+}
+
+/* button responsive */
+
+@media screen and (max-width: 767px) {
+    .button {
+        font-size: 15px !important;
+    } 
+}
+
+@media screen and (max-width: 460px) {
+    .button {
+        margin-left: 20px;
+    } 
+}
+
+@media screen and (max-width: 400px) {
+    .button {
+        font-size: 13px !important;
+    } 
+}
+
+@media screen and (max-width: 380px) {
+    .button {
+        font-size: 11px !important;
+    } 
+}
+
+@media screen and (max-width: 360px) {
+    .button {
+        font-size: 9px !important;
+    } 
+}
+
+@media screen and (max-width: 340px) {
+    .button {
+        font-size: 20px !important;
     } 
 }
 
