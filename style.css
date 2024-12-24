@@ -67,6 +67,13 @@
     } 
 }
 /* card responsive */
+
+@media screen and (max-width: 1200px) {
+    .custom-m {
+        width: 275px !important;
+    } 
+}
+
 @media screen and (max-width: 1199px) {
     .custom-m {
         width: 229px !important;
